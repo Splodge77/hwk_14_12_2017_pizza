@@ -1,0 +1,30 @@
+
+nav {
+  background-color: rgb(231, 50, 18);
+  width: 20%;
+  margin: auto;
+  border-style: solid;
+  border-width: medium;
+  border-color: rgb(113, 23, 7);
+}
+
+ul {
+  list-style-type: none;
+  display: inline;
+}
+
+form {
+  width: 20%;
+  align-self: center;
+  margin: auto;
+}
+
+body {
+  background-color: rgb(245, 78, 34);
+  text-align: center;
+  margin-top: 100px;
+}
+
+hr {
+  border-color: rgb(236, 42, 8);
+}
